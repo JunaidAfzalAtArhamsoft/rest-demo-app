@@ -53,3 +53,5 @@ class Task(models.Model):
             task_title (str): Return task title
         """
         return self.task_title
+
+
